@@ -93,7 +93,7 @@ unset http_proxy
 unset https_proxy
 ```
 
-can kaoshipin
+参考视频
 
 <https://www.bilibili.com/video/BV16z4y1n79T/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=85c2f878f8175b8c035e77a07396553a>
 
